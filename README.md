@@ -2,6 +2,8 @@
 
 GoShort is a web application built with Golang that facilitates the creation of short URLs for long URLs, providing users with a simple way to manage and share URLs efficiently.
 
+![](https://github.com/vhsenna/go-short/assets/34524951/8723d558-0bf9-4f25-98cb-1f1e66b87286)
+
 ## Features
 - **Create Short URLs**: Quickly generate short URLs for any long URL.
 - **Redirection**: Redirect to the original URL using the short URL.
